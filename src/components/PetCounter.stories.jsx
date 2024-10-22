@@ -30,3 +30,29 @@ export const Pets300 = {
     numberOfPets: 300
   }
 };
+
+export const Pets555 = {
+  args: {
+    images: [
+      "/img/dog-mini-1.png",
+      "/img/cat-mini-1.png",
+      "/img/dog-mini-2.png",
+      "/img/cat-mini-2.png"
+    ],
+
+    numberOfPets: 555
+  }
+};
+
+export const Pets23 = {
+  args: {
+    images: [
+      "/img/dog-mini-1.png",
+      "/img/cat-mini-1.png",
+      "/img/dog-mini-2.png",
+      "/img/cat-mini-2.png"
+    ],
+
+    numberOfPets: 3002
+  }
+};
